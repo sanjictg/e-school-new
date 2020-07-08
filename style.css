@@ -1,0 +1,59 @@
+.fast-half{
+    color: aqua;
+}
+.Jumbotron{
+    background-color: lightgray;
+    background-size: cover;
+    border: none;
+}
+.container{
+   margin-bottom: 10px;
+   
+}
+.shadow{
+    background-color: lightgrey;
+    padding: 10px 30px;
+    margin-top: 50px;
+    width: 300px;
+    height: 350px;
+    margin-bottom: 10px;
+    opacity: 0.9;
+    transition: 0.3s;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+.card-img{
+    width: 200px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.p{
+    color: white
+    line height: 25px;
+}
+.h5{
+    color: white;
+}
+.h5{
+    font-size: 18px;
+}
+.footer-top{
+    background: black;
+    padding: 80px 0;
+}
+.fotter-bottom-text{
+    text-align: center;
+    background: #000
+    line-height: 75px;
+ 
+}
+
+
+
+
